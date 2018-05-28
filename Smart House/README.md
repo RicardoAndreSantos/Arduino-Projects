@@ -26,3 +26,4 @@ It should still be possible to change the state of a light through an android ap
 ![sensor_schematic_bb](https://user-images.githubusercontent.com/17826603/40629700-16d809a0-62c5-11e8-986f-0db821455949.jpg)
 
 #### Actuators
+![actuators](https://user-images.githubusercontent.com/17826603/40630217-a916bf48-62c8-11e8-9a61-7504367543fb.jpg)
