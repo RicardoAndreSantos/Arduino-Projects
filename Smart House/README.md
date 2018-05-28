@@ -27,3 +27,34 @@ It should still be possible to change the state of a light through an android ap
 
 #### Actuators
 ![actuators](https://user-images.githubusercontent.com/17826603/40630217-a916bf48-62c8-11e8-9a61-7504367543fb.jpg)
+
+### Commands
+* `led1_ON` | `led1_OFF` 
+> Specify the division that we want to change the status of the light
+
+* `temperature` 
+> Return the temperature reading in celsius
+
+* `luminosity` 
+> Return the light intensity value
+
+* `house_auto_ON` 
+> Set the house in 'autonomous mode'
+
+* `house_auto_OFF` 
+> Remove the 'autonomous mode' 
+
+* `house_threshold_(0-1023)` 
+> Sets a threshold, below which the lights in the house should be turned on.
+		This value is set in the android app.
+
+* `house_settings` 
+> Return the threshold and the 'autonomous mode' values
+
+* `leds_STATUS` 
+> Get the status off all the led's in the house, and other variables
+
+
+  
+
+
